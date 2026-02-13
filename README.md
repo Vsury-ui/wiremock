@@ -60,7 +60,7 @@ curl -X POST http://localhost:8080/nsdl/pan
 ```
 
 ## Admin Interface
-Access the WireMock admin interface at:
+Access the WireMock admin interface at:  http://localhost:8080/__admin/
 
 ## AWS Deployment Guide
 
