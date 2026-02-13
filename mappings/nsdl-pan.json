@@ -1,0 +1,18 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/nsdl/pan"
+    },
+    "response": {
+        "status": 200,
+        "jsonBody": {
+            "status": "E",
+            "message": "Existing and Valid",
+            "name": "MOCK USER NAME",
+            "pan": "ABCDE1234F"
+        },
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}

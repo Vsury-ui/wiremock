@@ -1,0 +1,17 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/digio/kyc"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "status": "success",
+      "message": "KYC Verified Successfully",
+      "reference_id": "MOCK_DIGIO_12345"
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

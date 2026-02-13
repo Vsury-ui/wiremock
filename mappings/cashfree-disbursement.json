@@ -1,0 +1,18 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/cashfree/disburse"
+    },
+    "response": {
+        "status": 200,
+        "jsonBody": {
+            "status": "SUCCESS",
+            "message": "Disbursement Successful",
+            "referenceId": "MOCK_CASHFREE_54321",
+            "amount": 50000
+        },
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}

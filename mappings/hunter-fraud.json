@@ -1,0 +1,18 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/hunter/check"
+    },
+    "response": {
+        "status": 200,
+        "jsonBody": {
+            "status": "approved",
+            "score": 0,
+            "message": "No Fraud Detected",
+            "transaction_id": "MOCK_HUNTER_67890"
+        },
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}
